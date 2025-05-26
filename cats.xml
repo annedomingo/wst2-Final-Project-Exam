@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<cats>
+  
+  <cat>
+    <cat_id>002</cat_id>
+    <name>Jamal</name>
+    <age>5</age>
+    <rescued_date>2021-08-14</rescued_date>
+    <breed>Maine Coon</breed>
+    <class>senior</class>
+    <img>https://i.pinimg.com/736x/25/9a/2c/259a2c04ba213f15c61f5ddf56a0ca64.jpg</img>
+  </cat>
+  <cat>
+    <cat_id>003</cat_id>
+    <name>Shyroi</name>
+    <age>1</age>
+    <rescued_date>2024-03-19</rescued_date>
+    <breed>Persian</breed>
+    <class>kitten</class>
+    <img>https://i.pinimg.com/736x/24/66/6c/24666ce4d2e38e45f1c2ab0ca534d63d.jpg</img>
+  </cat>
+  <cat>
+    <cat_id>004</cat_id>
+    <name>Buntit</name>
+    <age>3</age>
+    <rescued_date>2022-11-02</rescued_date>
+    <breed>Russian Blue</breed>
+    <class>rescued</class>
+    <img>https://i.pinimg.com/736x/de/ca/72/deca722d8dd03c50d2dcd3df50795687.jpg</img>
+  </cat>
+  <cat>
+    <cat_id>005</cat_id>
+    <name>Digo</name>
+    <age>4</age>
+    <rescued_date>2021-09-30</rescued_date>
+    <breed>British Shorthair</breed>
+    <class>senior</class>
+    <img>https://i.pinimg.com/736x/bf/e3/bf/bfe3bfa4bcde939dc3f84ec7c49d9d87.jpg</img>
+  </cat>
+  <cat>
+    <cat_id>006</cat_id>
+    <name>Chicoloco</name>
+    <age>0.5</age>
+    <rescued_date>2024-12-10</rescued_date>
+    <breed>Ragdoll</breed>
+    <class>kitten</class>
+    <img>https://i.pinimg.com/736x/65/ec/74/65ec7404d13c124c069734a4f6092352.jpg</img>
+  </cat>
+  <cat>
+    <cat_id>007</cat_id>
+    <name>Toshi</name>
+    <age>6</age>
+    <rescued_date>2020-01-23</rescued_date>
+    <breed>Tabby</breed>
+    <class>rescued</class>
+    <img>https://i.pinimg.com/736x/8c/93/a6/8c93a6fc6e430f360e29a09c6a2868c4.jpg</img>
+  </cat>
+  <cat>
+    <cat_id>008</cat_id>
+    <name>Jack</name>
+    <age>2</age>
+    <rescued_date>2023-07-17</rescued_date>
+    <breed>American Curl</breed>
+    <class>rescued</class>
+    <img>https://i.pinimg.com/736x/97/2b/b1/972bb1fd2e984dc662938d2a21178e39.jpg</img>
+  </cat>
+  <cat>
+    <cat_id>009</cat_id>
+    <name>Posa</name>
+    <age>7</age>
+    <rescued_date>2019-04-09</rescued_date>
+    <breed>Sphynx</breed>
+    <class>senior</class>
+    <img>https://i.pinimg.com/736x/7d/bf/f0/7dbff04ed523a2c4f943a90f398cf418.jpg</img>
+  </cat>
+  <cat>
+    <cat_id>010</cat_id>
+    <name>Vamfyr</name>
+    <age>1</age>
+    <rescued_date>2024-08-20</rescued_date>
+    <breed>Himalayan</breed>
+    <class>disabled</class>
+    <img>https://i.pinimg.com/736x/46/4a/a0/464aa0cbc3d28e930acd4218e946ec7e.jpg</img>
+  </cat>
+  <cat>
+    <cat_id>019</cat_id>
+    <name>Vela</name>
+    <age>1</age>
+    <rescued_date>2024-08-20</rescued_date>
+    <breed>Pushin</breed>
+    <class>disabled</class>
+    <img>https://i.pinimg.com/736x/46/4a/a0/464aa0cbc3d28e930acd4218e946ec7e.jpg</img>
+  </cat>
+  <cat>
+  <cat_id>020</cat_id>
+  <name>Chairman Meow</name>
+  <age>3</age>
+  <rescued_date>2023-06-14</rescued_date>
+  <breed>Siberian</breed>
+  <class>kitten</class>
+  <img>https://i.pinimg.com/736x/80/f5/dd/80f5dd3f7e85a4e7ccee30226e5f7e9e.jpg</img>
+</cat>
+<cat>
+  <cat_id>021</cat_id>
+  <name>Meowzart</name>
+  <age>2</age>
+  <rescued_date>2024-01-05</rescued_date>
+  <breed>Persian</breed>
+  <class>senior</class>
+  <img>https://i.pinimg.com/736x/80/e1/72/80e172634340ddf734ae2c15bce6dcf3.jpg</img>
+</cat>
+<cat>
+  <cat_id>022</cat_id>
+  <name>Whiskerford</name>
+  <age>4</age>
+  <rescued_date>2023-09-12</rescued_date>
+  <breed>British Shorthair</breed>
+  <class>senior</class>
+  <img>https://i.pinimg.com/736x/67/f6/bd/67f6bd801fa25227958863f6bd0c8624.jpg</img>
+</cat>
+<cat>
+  <cat_id>023</cat_id>
+  <name>Jamamal</name>
+  <age>1</age>
+  <rescued_date>2024-03-03</rescued_date>
+  <breed>Pushin</breed>
+  <class>disabled</class>
+  <img>https://i.pinimg.com/736x/01/39/13/0139138504a78b8fb6e10757e2254125.jpg</img>
+</cat>
+<cat>
+  <cat_id>024</cat_id>
+  <name>Catniss Everclean</name>
+  <age>2</age>
+  <rescued_date>2024-04-17</rescued_date>
+  <breed>American Curl</breed>
+  <class>senior</class>
+  <img>https://i.pinimg.com/736x/88/77/b2/8877b2743051dc381a49b3f1d0a99fe7.jpg</img>
+</cat>
+<cat>
+  <cat_id>025</cat_id>
+  <name>Waffles</name>
+  <age>5</age>
+  <rescued_date>2022-11-23</rescued_date>
+  <breed>Maine Coon</breed>
+  <class>senior</class>
+  <img>https://i.pinimg.com/736x/d8/78/1c/d8781ccb4543e1af04f041ab511a03e3.jpg</img>
+</cat>
+<cat>
+  <cat_id>026</cat_id>
+  <name>Sir Pounce</name>
+  <age>3</age>
+  <rescued_date>2023-12-08</rescued_date>
+  <breed>Ragdoll</breed>
+  <class>senior</class>
+  <img>https://i.pinimg.com/736x/0f/6c/3e/0f6c3e4ade014bbb84d0d9a4251f3800.jpg</img>
+</cat>
+<cat>
+  <cat_id>027</cat_id>
+  <name>Cheddar</name>
+  <age>2</age>
+  <rescued_date>2024-02-14</rescued_date>
+  <breed>Scottish Fold</breed>
+  <class>senior</class>
+  <img>https://i.pinimg.com/736x/6d/59/25/6d5925063faf008f0f51a932a4b99971.jpg</img>
+</cat>
+<cat>
+  <cat_id>028</cat_id>
+  <name>Tuna Turner</name>
+  <age>1</age>
+  <rescued_date>2024-05-10</rescued_date>
+  <breed>Sphynx</breed>
+  <class>disabled</class>
+  <img>https://i.pinimg.com/736x/56/05/f3/5605f3de133d548ce0fbec9ebb83baf1.jpg</img>
+</cat>
+<cat>
+  <cat_id>029</cat_id>
+  <name>El Gato Supreme</name>
+  <age>6</age>
+  <rescued_date>2021-10-01</rescued_date>
+  <breed>Tabby</breed>
+  <class>senior</class>
+  <img>https://i.pinimg.com/736x/14/bb/a9/14bba9e12ca0ac2ff5d264a160f87044.jpg</img>
+</cat>
+
+  
+  
+  
+<cat><cat_id>001</cat_id><name>Potpot</name><age>2</age><rescued_date>2025-05-24</rescued_date><breed>puspin</breed><class>kitten</class><img>images/1748187166_gato mewing.jpg</img></cat><cat><cat_id>017</cat_id><name>ponpon alarcon</name><age>9</age><rescued_date>2025-05-26</rescued_date><breed>Pulot</breed><class>senior</class><img>images/1748212943_HuH_!.jpg</img></cat><cat><cat_id>018</cat_id><name>Jumbo</name><age>10</age><rescued_date>2025-05-30</rescued_date><breed>Pulot</breed><class>kitten</class><img>images/1748225533_posang_cute.jpg</img></cat></cats>
